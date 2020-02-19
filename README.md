@@ -1,2 +1,8 @@
 # Qualia-Nootropics-Mind-vs.-Focus
-Nootropics comparison of Qualia: a nootropic stack created by neurohacker.
+Nootropics comparison of Qualia: two nootropic stacks created by neurohacker.
+
+What is a Nootropic?
+
+Problem?
+
+Solution 
