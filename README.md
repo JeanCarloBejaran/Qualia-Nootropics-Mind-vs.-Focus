@@ -1,6 +1,7 @@
 # Qualia-Nootropics-Mind-vs.-Focus
 Nootropic ingredients comparison of Qualia Mind vs. Qualia Focus: 
 Two nootropic stacks created by neurohacker.
+Website: https://neurohacker.com/
 
 I web-scraped the data from Neurohacker's website using the Pandas Library.
 Cleaned, wrangled and merged the data into a final dataset for visualizing results.
