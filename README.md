@@ -3,11 +3,11 @@ Nootropic ingredients comparison of Qualia Mind vs. Qualia Focus:
 Two nootropic stacks created by neurohacker.
 Website: https://neurohacker.com/
 
-I web-scraped the data from Neurohacker's website using the Pandas Library.
-Cleaned, wrangled and merged the data into a final dataset for visualizing results.
+I web-scraped the data from Neurohacker's website using the requests and Pandas Libraries.
+Cleaned, wrangled and merged the Qualia Mind and Focus datasets into a final dataframe to view the differences in ingredients and effects resulting from a potential transition. 
 
 # Problem 
-What are the effects of switching to Qualia Focus?
+  What are the effects of switching to Qualia Focus?
 
 ### Framing the problem as a mathematical question:
   How similar are Qualia Mind and Qualia Focus? 
